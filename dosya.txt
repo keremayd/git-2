@@ -1,3 +1,4 @@
 ilk yazi
 ikinci yazi
 üçüncü yazi
+prop yazi
